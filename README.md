@@ -1,3 +1,3 @@
 # Firstpage
 
-Click to visit site: https://aakanshagujjul.github.io/Firstpage/
+Click to visit website: https://aakanshagujjul.github.io/Firstpage/
